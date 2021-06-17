@@ -4,7 +4,14 @@
   padding: 0;
 }
 
+/* Background image */
 #img-bg-main {
   background: url("nathan-dumlao-XOhI_kW_TaM-unsplash (1).jpg") center
     center/cover;
+  background-position-y: -950px;
+}
+
+/* Nav bar */
+header a {
+  display: inline-block;
 }
