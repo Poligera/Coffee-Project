@@ -13,16 +13,16 @@
 
 /* Nav bar */
 nav {
-  display: block;
+  display: flex;
   flex-direction: row;
-  padding-top: 0.9rem;
-  align-items: center;
+  padding-top: 0.5rem;
+  align-content: center;
 }
 
 a {
-  display: inline;
-  padding: 14rem;
+  display: inline-block;
   text-decoration: none;
   color: antiquewhite;
-  width: calc(100% / 3);
+  width: 600px;
+  padding-left: 350px;
 }
