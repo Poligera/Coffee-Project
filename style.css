@@ -12,6 +12,17 @@
 }
 
 /* Nav bar */
-header a {
+nav {
+  background-color: pink;
+  display: block;
+  flex-direction: row;
+  padding-top: 1rem;
+  align-items: center;
+}
+
+a {
   display: inline-block;
+  text-decoration: none;
+  color: antiquewhite;
+  width: calc(100% / 3);
 }
