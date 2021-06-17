@@ -15,8 +15,12 @@
 nav {
   display: flex;
   flex-direction: row;
-  padding-top: 0.5rem;
+  padding-top: 0.1rem;
   justify-content: center;
+}
+
+h2 {
+  text-align: center;
 }
 
 a {
@@ -37,7 +41,7 @@ a {
   padding: 30px;
   border-radius: 30px;
   font-family: "BenchNine", sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 p {
