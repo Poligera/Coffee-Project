@@ -41,6 +41,7 @@ a {
 }
 .location-img {
   height: 200px;
+  width: 200px;
 }
 .location-text {
   margin: auto 30px;
