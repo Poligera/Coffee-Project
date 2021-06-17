@@ -16,13 +16,14 @@ nav {
   display: flex;
   flex-direction: row;
   padding-top: 0.5rem;
-  align-content: center;
+  justify-content: center;
 }
 
 a {
   display: inline-block;
   text-decoration: none;
   color: antiquewhite;
-  width: 600px;
-  padding-left: 380px;
+  font-size: 2rem;
+  font-family: "BenchNine", sans-serif;
+  margin: 0 90px;
 }
