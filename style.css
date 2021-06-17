@@ -27,3 +27,21 @@ a {
   font-family: "BenchNine", sans-serif;
   margin: 0 90px;
 }
+#body-of-page {
+  margin: 0 auto;
+  width: 800px;
+  background: rgba(255, 255, 255, 0.774);
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 400px);
+}
+.location-item {
+  display: flex;
+  margin: 15px;
+}
+.location-img {
+  height: 200px;
+}
+.location-text {
+  margin: auto 30px;
+}
