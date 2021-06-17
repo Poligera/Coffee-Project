@@ -7,21 +7,21 @@
 /* Background image */
 #img-bg-main {
   background: url("nathan-dumlao-XOhI_kW_TaM-unsplash (1).jpg") center
-    center/cover;
+    center/cover no-repeat;
   background-position-y: -950px;
 }
 
 /* Nav bar */
 nav {
-  background-color: pink;
   display: block;
   flex-direction: row;
-  padding-top: 1rem;
+  padding-top: 0.9rem;
   align-items: center;
 }
 
 a {
-  display: inline-block;
+  display: inline;
+  padding: 14rem;
   text-decoration: none;
   color: antiquewhite;
   width: calc(100% / 3);
