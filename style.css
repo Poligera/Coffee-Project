@@ -15,8 +15,9 @@
 nav {
   display: flex;
   flex-direction: row;
-  padding-top: 0.1rem;
+  padding: 0.5rem 0;
   justify-content: center;
+  background: rgba(0, 0, 0, 0.26);
 }
 
 h2 {
